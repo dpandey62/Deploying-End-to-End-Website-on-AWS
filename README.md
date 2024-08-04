@@ -144,9 +144,6 @@ Check database connections to RDS.
 # Conclusion
 By following these steps, you will have deployed an end-to-end website using AWS services. This setup ensures scalability, reliability, and ease of management. Make sure to monitor and optimize your AWS resources for cost efficiency and performance.
 
-# Screenshot
-![Screenshot 2024-08-03 223046](https://github.com/user-attachments/assets/edc96a5f-9a5d-4b5c-b57c-ee0de79ca156)
 
-![Screenshot 2024-08-03 221122](https://github.com/user-attachments/assets/a618d12b-8467-4c8a-899f-2181488a99c8)
 
 
